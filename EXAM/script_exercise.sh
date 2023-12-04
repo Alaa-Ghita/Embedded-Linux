@@ -1,3 +1,5 @@
+echo $USER
+echo $HOSTNAME
 mkdir ~/script_exercise
 cd ~/script_exercise
 for i in 1 2 3 4 5
