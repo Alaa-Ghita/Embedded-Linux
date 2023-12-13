@@ -1,3 +1,4 @@
+#!/bin/bash
 echo $USER
 echo $HOSTNAME
 mkdir ~/script_exercise
