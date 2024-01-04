@@ -31,9 +31,8 @@ LFLAG      = -L
 lFLAG      = -l
 STATICFLAG = -static
 
-
 $(AppOutput) : $(AppSource) $(LibFullName)
-	@$(CC) $(STATICFLAG) $< $(LFLAG) $(LibDir) $(lFLAG) $(LibName) $(IFLAG) $(Headers) $(OFLAG) $@
+	@$(CC) -mmcu=atmega32 $(STATICFLAG) $< $(LFLAG) $(LibDir) $(lFLAG) $(LibName) $(IFLAG) $(Headers) $(OFLAG) $@
 	
 $(LibFullName) : $(ObjectsList)
 	@$(AR) $(RCSFLAG) $@ $^
