@@ -1,0 +1,6 @@
+/home/alaa/Embedded-Linux/EmbeddedLinux_Task5/StaticLinking/build/CMakeFiles/main.out.dir
+/home/alaa/Embedded-Linux/EmbeddedLinux_Task5/StaticLinking/build/CMakeFiles/edit_cache.dir
+/home/alaa/Embedded-Linux/EmbeddedLinux_Task5/StaticLinking/build/CMakeFiles/rebuild_cache.dir
+/home/alaa/Embedded-Linux/EmbeddedLinux_Task5/StaticLinking/build/lib/CMakeFiles/operation.dir
+/home/alaa/Embedded-Linux/EmbeddedLinux_Task5/StaticLinking/build/lib/CMakeFiles/edit_cache.dir
+/home/alaa/Embedded-Linux/EmbeddedLinux_Task5/StaticLinking/build/lib/CMakeFiles/rebuild_cache.dir

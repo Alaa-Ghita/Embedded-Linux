@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/main.out.dir/home/alaa/Embedded-Linux/EmbeddedLinux_Task5/main.c.o -o main.out  lib/liboperation.a 
