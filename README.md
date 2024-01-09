@@ -8,6 +8,7 @@ we create a file with size of 1 GB filled with zeros.
 
 ![Screenshot from 2024-01-09 13-14-11](https://github.com/Alaa-Ghita/Embedded-Linux/assets/151027764/83c78d65-0be3-45dd-8d87-250948c75688)
 
+
 ### Step 2
 
 Configure the partitions for the SD card. using the command:
@@ -27,11 +28,13 @@ In this step we to attach the sd.img we created to loop driver, to be as a block
 
 ![Screenshot from 2024-01-09 13-42-32](https://github.com/Alaa-Ghita/Embedded-Linux/assets/151027764/dca88cf0-6a29-4217-8ba1-09fb91a19c48)
 
+
 ### Step 4
 
 Last step is to format the partitions as pre-configured in step 2. First partition as FAT 16, and second partition as ext4.
 
 ![Screenshot from 2024-01-09 13-42-55](https://github.com/Alaa-Ghita/Embedded-Linux/assets/151027764/e717f09d-ea36-4812-9086-a32dd077d998)
+
 
 ## Mount
 
