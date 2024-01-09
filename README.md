@@ -4,7 +4,7 @@
 
 ### Step 1
 
-we create a file with size of 1 GB filled with zeros.
+We create a file with size of 1 GB filled with zeros.
 
 ![Screenshot from 2024-01-09 13-14-11](https://github.com/Alaa-Ghita/Embedded-Linux/assets/151027764/83c78d65-0be3-45dd-8d87-250948c75688)
 
